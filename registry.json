@@ -1,0 +1,207 @@
+{
+    "$schema": "https://ui.shadcn.com/schema/registry.json",
+    "homepage": "https://...",
+    "items": [
+        {
+            "name": "Alert",
+            "manifest": "components/Alert.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": [
+                "Button"
+            ]
+        },
+        {
+            "name": "Badge",
+            "manifest": "components/Badge.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Button",
+            "manifest": "components/Button.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Card",
+            "manifest": "components/Card.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": [
+                "CardContent",
+                "CardDescription",
+                "CardFooter",
+                "CardHeader",
+                "CardTitle"
+            ]
+        },
+        {
+            "name": "CardContent",
+            "manifest": "components/Card/CardContent.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "CardDescription",
+            "manifest": "components/Card/CardDescription.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "CardFooter",
+            "manifest": "components/Card/CardFooter.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "CardHeader",
+            "manifest": "components/Card/CardHeader.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "CardTitle",
+            "manifest": "components/Card/CardTitle.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Grid",
+            "manifest": "components/Grid.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": [
+                "Col",
+                "Row"
+            ]
+        },
+        {
+            "name": "Col",
+            "manifest": "components/Grid/Col.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Row",
+            "manifest": "components/Grid/Row.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Navbar",
+            "manifest": "components/Navbar.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Table",
+            "manifest": "components/Table.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": [
+                "TableBody",
+                "TableCaption",
+                "TableCell",
+                "TableFooter",
+                "TableHead",
+                "TableHeader",
+                "TableRow"
+            ]
+        },
+        {
+            "name": "TableBody",
+            "manifest": "components/Table/TableBody.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableCaption",
+            "manifest": "components/Table/TableCaption.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableCell",
+            "manifest": "components/Table/TableCell.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableFooter",
+            "manifest": "components/Table/TableFooter.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableHead",
+            "manifest": "components/Table/TableHead.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableHeader",
+            "manifest": "components/Table/TableHeader.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "TableRow",
+            "manifest": "components/Table/TableRow.json",
+            "theme": "",
+            "type": "component",
+            "dependencies": []
+        },
+        {
+            "name": "Badge",
+            "manifest": "examples/Badge.json",
+            "theme": "",
+            "type": "example",
+            "dependencies": []
+        },
+        {
+            "name": "BadgeOutline",
+            "manifest": "examples/BadgeOutline.json",
+            "theme": "",
+            "type": "example",
+            "dependencies": []
+        },
+        {
+            "name": "Button",
+            "manifest": "examples/Button.json",
+            "theme": "",
+            "type": "example",
+            "dependencies": []
+        },
+        {
+            "name": "Grid",
+            "manifest": "examples/Grid.json",
+            "theme": "",
+            "type": "example",
+            "dependencies": []
+        },
+        {
+            "name": "Table",
+            "manifest": "examples/Table.json",
+            "theme": "",
+            "type": "example",
+            "dependencies": []
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "BadgeOutline",
+    "manifest": "examples/BadgeOutline.json",
+    "theme": "",
+    "type": "example",
+    "code": "<twig:Badge outline>Badge</twig:Badge>\n<twig:Badge variant=\"primary\" outline>Badge</twig:Badge>\n<twig:Badge variant=\"secondary\" outline>Badge</twig:Badge>\n",
+    "fingerprint": "ed027eb6cb73152ed3e7291fc39f6c07",
+    "dependencies": []
+}
